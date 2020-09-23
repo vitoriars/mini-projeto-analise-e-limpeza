@@ -1,2 +1,2 @@
-# mini-projeto-an-lise-e-limpeza
-Mini projeto de análise e limpeza de dados de um dataset com músicas do Spotify para o Grupo Turing
+# Mini Projeto de limpeza e análise
+Mini projeto de limpeza e análise de dados de um dataset com músicas do Spotify para o Grupo Turing
