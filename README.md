@@ -10,4 +10,6 @@
 - Características musicais, como dançabilidade, altura, instrumentalidade, entre outras.
 
 ----
-Projeto feito com a monitoria e auxílio de [Felipe Azank | @AZANK7173](https://github.com/AZANK7173) e [Julia Pocciotti | @juliapocciotii](https://github.com/juliapocciotti)
+Projeto feito com a monitoria e auxílio de: 
+- [Felipe Azank | @AZANK7173](https://github.com/AZANK7173) 
+- [Julia Pocciotti | @juliapocciotii](https://github.com/juliapocciotti)
